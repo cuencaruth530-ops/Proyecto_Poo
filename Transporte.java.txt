@@ -1,3 +1,4 @@
 public class Transporte {
     private String tipo;
 }
+private String tipo;
